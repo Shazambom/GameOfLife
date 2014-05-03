@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=event
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment0.text=\r\n\ ActionListener\ listener\ \=\ new\ TimerListener();\r\n\ Timer\ t\ \=\ new\ Timer(interval(in\ miliseconds),\ listener);\ \r\n\ t.start();\r\n
+numComments=1

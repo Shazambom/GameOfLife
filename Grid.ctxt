@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=a\ b
+comment1.target=Grid(int,\ int)
+comment2.params=
+comment2.target=boolean[][]\ getGrid()
+comment3.params=posx\ posy
+comment3.target=boolean\ live(int,\ int)
+comment4.params=a\ b\ c
+comment4.target=void\ setGrid(int,\ int,\ boolean)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7
