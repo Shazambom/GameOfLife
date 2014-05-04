@@ -16,7 +16,7 @@ public class Main
     //HURRAY CLICKLISTENER REMEMBERS ITS POSITION
     public static void main ( String[] args ){
         JFrame frame = new JFrame();
-        frame.setLayout(new GridLayout(50,50));
+        frame.setLayout(new GridLayout(grid.getX(),grid.getY()));
         buttonGrid = new JButton[grid.getX()][grid.getY()];
         listener = new ClickListener[grid.getX()][grid.getY()];
         for(int i = 0; i < grid.getX(); i++){
